@@ -7,7 +7,7 @@
   (paper "A4")
   (title_block
     (title "RP2040-PinTest-0010")
-    (date "2023-11-27")
+    (date "2023-12-08")
     (rev "1.0")
     (company "(c) Andriy Golovnya")
   )
@@ -76,9 +76,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "cam")
     )
   )
 
